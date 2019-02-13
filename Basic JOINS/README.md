@@ -1,4 +1,4 @@
-### [1.Challenge Name: Asian Population](1_AsianPopulation.sql)
+### [1. Challenge Name: Asian Population](1_AsianPopulation.sql)
 
 
 Given the **CITY** and **COUNTRY** tables, query the sum of the populations of all cities where the *CONTINENT* is *'Asia'*.
